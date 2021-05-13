@@ -3,7 +3,7 @@ module.exports = {
   title: 'Inforiver Documentation',
   tagline: 'Low code/No code Analytics Custom Visual',
   url: 'https://github.com/divyabhushan/inforiverdocs/',
-  baseUrl: '/inforiver/',
+  baseUrl: '/inforiverdocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/inforiver-logo.svg',
@@ -20,7 +20,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'references/formula-list',
+          docId: 'formula-list',
           position: 'left',
           label: 'Functions',
         },
