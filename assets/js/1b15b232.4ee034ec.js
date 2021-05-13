@@ -1,0 +1,1 @@
+(self.webpackChunkinforiver=self.webpackChunkinforiver||[]).push([[7169],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/inforiverdocs/blog/welcome"},{"title":"Hello","permalink":"/inforiverdocs/blog/hello-world"},{"title":"Hola","permalink":"/inforiverdocs/blog/hola"}]}')}}]);
